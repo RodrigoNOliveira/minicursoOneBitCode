@@ -31,9 +31,7 @@ html {
      /* Caso a larura do site seja maior que o conteúdo, esconda o excesso */
 }
 
-
 .header{
-  
     position: sticky;
     padding: 2.4rem 8rem 2.4rem 8rem;
     top: 0;
@@ -88,7 +86,7 @@ h1, h2{
     display: flex;
     align-items: center;
     gap: 3.2rem;
-    padding: 2.4rem 8rem 12.8rem 8rem;
+    padding: 8rem 8rem 12.8rem 8rem;
     position: relative;
      flex-wrap: nowrap;
 }
@@ -138,6 +136,7 @@ img{
     align-items: center;
     gap: 6.4rem;
     padding: 6.4rem 8rem;
+    padding-top: 8rem;
     position: relative;
 }
 
@@ -154,6 +153,7 @@ img{
 
  #farmacia{
     padding: 6.4rem 8rem;
+    padding-top: 8rem;
     text-align: center;
  }
 
@@ -173,6 +173,7 @@ img{
     align-items: center;
     gap: 6.4rem;
     padding: 6.4rem 8rem;
+    padding-top: 8rem;
 }
 
 #duvidas .duvida .paragrafo{
